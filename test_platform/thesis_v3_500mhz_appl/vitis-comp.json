@@ -1,0 +1,15 @@
+{
+  "name": "thesis_v3_500mhz_appl",
+  "type": "HOST",
+  "platform": "thesis_v3_500mhz_pf",
+  "domain": "standalone_psu_cortexa53_0",
+  "cpuInstance": "psu_cortexa53_0",
+  "cpuType": "cortex-a53",
+  "os": "standalone",
+  "configuration": {
+    "componentType": "HOST",
+    "hostToolchainConfigurations": []
+  },
+  "domainRealName": "standalone_psu_cortexa53_0",
+  "applicationFlow": "EMBEDDED"
+}
